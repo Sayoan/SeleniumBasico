@@ -61,6 +61,8 @@ namespace ProjetoNUnit
         {
             driver.Close();
         }
+
+ 
     }
 
    
